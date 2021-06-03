@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Church of Englands complaint in vindication of her loyalty</title>
+         </titleStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33075</idno><idno type="EEBO-CITATION">15367856</idno>
+  <idno type="VID">103540</idno>
+  <idno type="EEBO-PROQUEST">2240921339</idno>
+  
+            <idno type="STC">Wing C4193</idno>
+            <idno type="STC">ESTC R35581</idno>
+            <idno type="OCLC">15367856</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A33075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Church of Englands complaint in vindication of her loyalty</title>
+               </titleStmt>
+               <extent>1 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: stained, with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Clergy.</term>
+               <term type="topical_term">Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:103540:1"/>
+            <pb n="1" facs="tcp:103540:1"/>
+            <head>THE <hi>Church of Englands</hi> COMPLAINT IN Vindication of Her Loyalty.</head>
+            <p>IF ever Mother had just reason to Complain of her Children, and ex<g ref="char:EOLhyphen"/>postulate the Case with them, certainly it is I. If ever Children did Dishonour their Parent, or at any time Blast her Reputation, they are now mine.</p>
+            <p>I who formerly gloried in my stedfast and unshaken Loyalty; I who by many Canons and Ecclesiastical Constitutions established the Regal Authority against all <hi>Papal</hi> and <hi>Popular, Foreign</hi> and <hi>Domestick Power:</hi> I who so often declar'd it Unlawful for any Subject, upon <hi>any pretence what<g ref="char:EOLhyphen"/>soever,</hi> to take up either <hi>Offensive</hi> or <hi>Defensive</hi> Arms against their <hi>Sove<g ref="char:EOLhyphen"/>raign.</hi> I who Contemned my <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ister Churches, as <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaching Doctrines and Positions lessening that <hi>Tow<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing Loyalty</hi> which I professed; and par<g ref="char:EOLhyphen"/>ticularly Her of <hi>Rome,</hi> for maintaining a Foreign Ecclesiastical Jurisdicti<g ref="char:EOLhyphen"/>on, though only in meer Spiritual matters: Now find my Reputation Tainted, my Loyalty brought in question, and my constant adherence to my own Canons and Constitutions, not only doubted of, but denyed; whilst the Malice of some of my Children being in a Foreign Power to in<g ref="char:EOLhyphen"/>vade my Soveraign's Rights, under a meer-pretence of supporting my Grandure; and raise Popular tumults for the establishing my Peace; whilst the irregular Zeal of others, makes them draw their Swords a<g ref="char:EOLhyphen"/>gainst their and my Head and Soveraign in the most unnatural Quarel; and others who should have stood up to support my Honour, not only look on with an affected Silence, but by covert wayes abet <hi>Rebellion.</hi>
+            </p>
+            <p>
+               <hi>He who spares the Rod;</hi> says <hi>Solomon, spoils the Child;</hi> And this I fear has been my Case. The Evil seems by my neglect to have taken root, and spread its Branches to a large extent; and should I in this juncture of Affairs make use of my Maternal Power, or Ecclesiastical Jurisdiction, and publickly disinherit, or denounce Them to be no Members, of my Body, who have broken my <hi>Canons</hi> and <hi>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nstitutions,</hi> to which an Excommuni<g ref="char:EOLhyphen"/>cation, <hi>ipso facto,</hi> is annexed, I might fear to Exasperate rather than recal my Children to a due Obedience: Nay I might justly apprehend a vast diminution in my Numbers; and they who have given this wound to their Mothers Honour, by calling <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, or abetting a <hi>Foreign Power</hi> against
+<pb n="2" facs="tcp:103540:2"/>her <hi>Head,</hi> would also contemn my <hi>Censures,</hi> and never sue for <hi>Absolution.</hi>
+            </p>
+            <p>But <hi>Loosers,</hi> they say, <hi>have leave to speak.</hi> I hope then it may be allowed me, even at this time, to speak my mind freely, and read a Lecture of Duty and Obedience to my Children.</p>
+            <p>And to whom shall I Address my self, but to them whose Ecclesiastical Dignity has given them not only Authority to Teach my Children their Duty, but to compel them also by Censures to it; and particularly to you my <hi>Seven Sons,</hi> who of late gain'd so vast a Reputation, by opposing Majesty, that no Emblem but the <hi>Seven Golden Candlesticks,</hi> was thought sufficient to express your Glory: And this so much the rather, because it is surmis'd, that occasion has been taken from your Examples, to advance too far, and pass over the Bulworks of <hi>Passive Obedience</hi> and <hi>Non-resistance</hi> into the open Campaigns of <hi>Rebellion.</hi>
+            </p>
+            <p>You know what <hi>Articles, Canons</hi> and <hi>Constitutions</hi> have been established by me in your Predecessors Times; and what Obligations all my Chil<g ref="char:EOLhyphen"/>dren have lain under by them: But you know also how little they have been put in Execution.</p>
+            <p>You know, that from my first Establishment, I declared in my 37 Ar<g ref="char:EOLhyphen"/>ticle, that, <hi>The Kings Majesty hath the chief Power in this Realm of</hi> England <hi>and other his Dominions, unto whom the chief Government of all Estates of this Realm, whether they be Ecclesiastical or Civil, in</hi> all Causes <hi>doth appertain, and is not, nor ought not to be subject to <hi>any Foreign Iurisdiction.</hi>
+               </hi> And this without any limitation.</p>
+            <p>You know also, that in the <hi>Canons</hi> and <hi>Constitutions</hi> set forth in the first year of King <hi>James</hi> the first, <hi>Not only the Inferior Clergy, but the Arch<g ref="char:EOLhyphen"/>bishop of</hi> Canterbury <hi>himself, is obliged to keep and observe Faithfully, and (as much as in them lyes) see that others keep and observe all and every the</hi> Statutes <hi>and Laws confirming the</hi> Ecclesiastical Jurisdiction <hi>of the Kings of</hi> England. <hi>And that all who have Cure of Souls, Preachers,</hi> &amp;c. <hi>Shall Teach that</hi> All Foreign and Usurped Power, <hi>has for just Causes been taken away and abolish'd; and therefore no</hi> Obedience <hi>or</hi> Subjection <hi>is in</hi> any manner due, <hi>in these his Majesties Kingdoms and Dominions, to <hi>any Foreign Power whatsoever</hi> — But that the Regal Authority is the First and Supream next under</hi> God, <hi>to which</hi> All Persons <hi>are obliged by the Law of God to pay</hi> All Fidelity <hi>and</hi> Obedience <hi>above any other Power upon Earth.</hi>
+            </p>
+            <p>That in the 2d. of those Canons, They are to be <hi>Fxcommunicated ipso facto, Who shall presume</hi> in any manner to hurt or lessen the said Regal Primacy <hi>Established by the</hi> Laws <hi>of the Kingdom: And that this</hi> Excommu<g ref="char:EOLhyphen"/>nication <hi>shall not be taken off, but by the Arch-Bishop, and that not till they</hi> Repent, <hi>and Publickly recall those</hi> Impious Errors.</p>
+            <p>From whence it Naturally follows, that, to bring in or Abet <hi>Any For<g ref="char:EOLhyphen"/>reign Jurisdiction,</hi> (without Exception) against our Lawful Sovereign, up<g ref="char:EOLhyphen"/>on <hi>any Pretence whatsoever,</hi> whether <hi>Ecclesiastical</hi> or <hi>Civil,</hi> is to go direct<g ref="char:EOLhyphen"/>ly against my Doctrine delivered in my XXXIX <hi>Articles,</hi> against the Esta<g ref="char:EOLhyphen"/>blished <hi>Laws</hi> of this Nation, against my <hi>Canons</hi> and <hi>Constitutions,</hi> and
+<pb n="3" facs="tcp:103540:2"/>such a Crime as is justly called <hi>Impious,</hi> and incurs an <hi>Excommunication ipso facto.</hi>
+            </p>
+            <p>You know moreover, that in my latter <hi>Canons</hi> and <hi>Constitutions,</hi> Pub<g ref="char:EOLhyphen"/>lished in the Year 40 (to prevent those intestine Broils which threatned the Nation,<note place="margin">Sparo <hi>Canon</hi> 345.</note> and brought it presently after to Ruin:) Several <hi>Explana<g ref="char:EOLhyphen"/>tions</hi> of the <hi>Regal Power</hi> were Commanded to be Read by every Parson, Vicar, Curate or Preacher, upon some one <hi>Sunday</hi> in every Quarter of the Year at <hi>Morning-Prayer;</hi> which <hi>Explanations</hi> declared at large.</p>
+            <p n="1">1. <hi>That the most High and Sacred Order of</hi> Kings <hi>is of</hi> Divine Right, <hi>and that God has given Them a Supreme Power to Rule and Command in Their se<g ref="char:EOLhyphen"/>veral Dominions, all Persons of what Rank or Estate soever, whether</hi> Eccle<g ref="char:EOLhyphen"/>siastical <hi>or</hi> Civil, <hi>and to Restrain and Punish with the Temporal Sword, all Stubborn and Wicked Doers.</hi>
+            </p>
+            <p n="2">2. <hi>That the care of God's Church is committed to</hi> Kings, <hi>who are Commen<g ref="char:EOLhyphen"/>ded by God when the Church keeps the right way, and Taxed by Him in Holy Scripures when it runs amiss.</hi> But it is no where said, that either a Foreign or Domestick Power may Compel Him to do, or Punish Him for not per<g ref="char:EOLhyphen"/>forming His Duty.</p>
+            <p n="3">3. <hi>That the Power to Call and Disolve</hi> Councils, <hi>both</hi> National <hi>and</hi> Pro<g ref="char:EOLhyphen"/>vincial, <hi>is the true Right of all</hi> Christian Kings <hi>within Their own Realms and Teritories: And when in the first times of</hi> Christ's Church, <hi>Prelates used this Power, 'twas therefore only because in those days they had no</hi> Christian Kings: <hi>And it was then so only used as in times of Persecution, that is, with Supposition (in case it were required) of submitting their Lives unto the very Laws and Commands, even of those</hi> Pagan Princes, <hi>that they might not so much as seem to disturb their Civil Government, which</hi> Christ <hi>came to Confirm, but by no means to Ʋndermine.</hi>
+            </p>
+            <p>From whence it follows, That the Doctrine of <hi>Non-Resistance</hi> and <hi>Pas<g ref="char:EOLhyphen"/>sive Obedience,</hi> is what was Taught in the <hi>Primitive Church,</hi> as necessary to be Practiced even towards <hi>Heathens,</hi> and their <hi>Laws,</hi> much more ought it now to be towards <hi>Christian Princes.</hi>
+            </p>
+            <p n="4">4. <hi>That for any Person or Persons to</hi> Set up, Maintain, <hi>or</hi> Avow <hi>in any Their Realms or Teritories respectively,</hi> any Independent Co-active Power, either Papal or Popular (whether directly or indirectly) <hi>is to Ʋndermine Their Great Royal Office, and cunningly to Overthrow that most Sacred Ordi<g ref="char:EOLhyphen"/>nance, which</hi> God <hi>himself hath Established: And so is</hi> Treasonable a<g ref="char:EOLhyphen"/>gainst God, <hi>as well as against the</hi> King.</p>
+            <p>And certainly, if it was then my Duty to cry out against <hi>any Indepen<g ref="char:EOLhyphen"/>dent Co-active Power,</hi> either <hi>Papal</hi> or <hi>Popular;</hi> it is no less my Duty now, to disavow any <hi>Foreign</hi> or <hi>Domestick</hi> Power, though <hi>Protestant.</hi>
+            </p>
+            <p n="5">5. <hi>That for Subjects to bear Arms against their</hi> Kings, Offensive <hi>or</hi> Defen<g ref="char:EOLhyphen"/>sive, upon any pretence whatsoever [whether for Religion or Property it matt<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs not] <hi>is at least to</hi> Resist the Powers, which are Ordained of God: <hi>And tho' they do not</hi> Invade, <hi>but only</hi> Resist; <hi>St.</hi> Paul <hi>tells them plainly,</hi> They shall receive to themselves Damnation.</p>
+            <p n="6">
+               <pb n="4" facs="tcp:103540:3"/> 6. <hi>They declare. That tho' Tribute and Custom, and Aid, and Subsidy, and all manner of necessary Support and Supply, be respectively due to</hi> Kings <hi>from Their Subjects, by the Law of God, Nature, and Nations, for the Publick Defence, Care and Protection of them; yet nevertheless, Subjects have not on<g ref="char:EOLhyphen"/>ly Possession of, but a true and just Title to, and in all their Goods and Estates, and ought to have: And these two are so far from crossing one another, that they mutually go together, for the Honourable and Comfortable Support of both. For as it is the Duty of the Subjects to supply their King: So is it part of the King<g ref="char:EOLunhyphen"/>ly Office, to support his Subjects in the Property and Freedom of their Estates.</hi>
+            </p>
+            <p n="7">7. <hi>They Decreed, That if any Parson, Vicar, Curate, or Preacher, shall voluntarily or carelesly</hi> neglect <hi>his Duty in Publishing the said</hi> Explications <hi>and</hi> Conclusions, <hi>according to the Order above described, he shall be Suspen<g ref="char:EOLhyphen"/>ded by his</hi> Ordinary, <hi>till such time as upon his Penitence he shall give sufficient Assurance, or Evidence of his Amendment,</hi> &amp;c.</p>
+            <p n="8">8. <hi>They do also thereby require</hi> Arch-Bishops, Bishops, <hi>and all other Infe<g ref="char:EOLhyphen"/>feriour</hi> Priests <hi>and</hi> Ministers, <hi>that they Preach, Teach, and Exhort their Peo<g ref="char:EOLhyphen"/>ple to Obey, Honour, and Serve their</hi> King; <hi>and that they presume not to speak of His Majesty's Power in any other way than in this</hi> Canon <hi>is expressed.</hi>
+            </p>
+            <p n="9">9. <hi>And lastly, if any Parson, Vicar, Curate, Preacher, or any other</hi> Ec<g ref="char:EOLhyphen"/>clesiastical <hi>Person whatsoever, shall in any Sermon, Lecture, Common Place, Determination or Disputation, either by Word or Writing, Publickly Maintain, or Abet any Position or Conclusion, in Opposition or Impeachment of the afore<g ref="char:EOLhyphen"/>said</hi> Explications, <hi>or any</hi> Part <hi>or</hi> Article <hi>of them, he shall forthwith, by the Power of His Majesty's Commissioners for Causes</hi> Ecclesiastical, <hi>be</hi> Excom<g ref="char:EOLhyphen"/>municated <hi>(till he Repent) and</hi> Suspended <hi>two years from all the Profits of his Benefice, or other</hi> Ecclesiastical, Academical, <hi>or</hi> Scholastical <hi>Prefer<g ref="char:EOLhyphen"/>ments,</hi> &amp;c.</p>
+            <p>You know also, that these <hi>Canons</hi> and <hi>Constitutions</hi> do bind you no less now in 88. than they did your Predec<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssors in 41. it having been Decreed, That <hi>whosoever shall hereafter affirm, that a most Holy Synod of this Nation, is not Representatively the true</hi> Church <hi>of</hi> England: <hi>or that no Persons, whe<g ref="char:EOLhyphen"/>ther of the</hi> Clergy <hi>or</hi> Laity, <hi>are any ways obliged by the said Decrees touching</hi> Ecclesiastical <hi>matters, who were not personally present in the same Holy Synod, as not having given their Votes or Consent, shall be</hi> Excommunicated; <hi>and by no means to be</hi> Absolved <hi>till he have</hi> Repented, <hi>and Publickly recalled this</hi> Wicked Error.</p>
+            <p>I must desire you also to call to mind the <hi>Oaths</hi> you and all my other Children of the <hi>Clergy</hi> took, when you entred into that Sacred Function, as also the <hi>Declarations</hi> you Subscribed when you became Incumbents.</p>
+            <p>The first at your Ordination, was in these words.</p>
+            <p>
+               <hi>I</hi> A. B. <hi>do utterly testify and declare in my Conscience, that the King</hi>'s <hi>Highness is the only Suprem Governour of this Realm,</hi>
+               <note place="margin">p. 145.</note>
+               <hi>and of all other His Highnesses Dominions and Coun<g ref="char:EOLhyphen"/>tries, as well in all</hi> Spiritual <hi>or</hi> Ecclesiastical <hi>Things or Causes, as</hi> Temporal; <hi>and that no</hi> Foreign Prince, Person, Prelate, State,
+<pb n="5" facs="tcp:103540:3"/>or Potentate, <hi>hath or ought to have</hi> any Jurisdiction, Power, Supe<g ref="char:EOLhyphen"/>riority, Pre-eminence, <hi>or</hi> Authority Ecclesiastical <hi>or</hi> Spiritual <hi>Within this Realm, and therefore I do utterly renounce and forsake</hi> all Foreign Jurisdictions, Powers, Superiorties <hi>and</hi> Authorities, <hi>and do promise that from henceforth I shall bear</hi> Faith <hi>and</hi> true Alle<g ref="char:EOLhyphen"/>giance <hi>to the King's Highness, His Heirs and Lawful Succes<g ref="char:EOLhyphen"/>sors, and</hi> to my Power <hi>shall</hi> Assist <hi>and</hi> Defend <hi>all</hi> Jurisdictions, Priviledges, Pre-eminencies, <hi>and</hi> Authorities, <hi>granted or belong<g ref="char:EOLhyphen"/>ing to the King's Highness, His Heirs and Successors, or V<g ref="char:EOLhyphen"/>nited and Annexed to the Imperial Crown of this Realm.</hi> So help me God, and the Contents of this Book.</p>
+            <p>The Second <hi>Oath</hi> or <hi>Declaration,</hi> is before their Admission to be <hi>Incum<g ref="char:EOLhyphen"/>ben<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> in these words.</p>
+            <p>
+               <hi>I</hi> A. B. <hi>declare, That it is not Lawful upon</hi> any Pretence whatsoever, <hi>to take Arms against the King; And that I abhor that Trayterous Position of taking Arms,</hi>
+               <note place="margin">Act of <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>niformit<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>14,</hi> Car.</note>
+               <hi>by His Authority against His Person, or against those that are Commissionated by Him,</hi> &amp;c.</p>
+            <p>These are my <hi>Articles, Canons, Constitutions,</hi> and <hi>Declarations,</hi> Loyal indeed in their Expressions, and such as Religiously maintain my known Doctrine of <hi>Non-Resistance, upon any account whatsoever,</hi> and <hi>Passive Obedi<g ref="char:EOLhyphen"/>ence,</hi> where Conscience will not permit an <hi>Active;</hi> These are the <hi>Oaths</hi> you your selves have taken, and the <hi>Declarations</hi> you have subscribed. The Censures are high, even those of <hi>Excommunication ipso facto;</hi> And the Laws are made equally against <hi>any Foreign</hi> or <hi>Domestick Power, Papal</hi> or <hi>Popular; Prince, Person, Prelate, Stute,</hi> or <hi>Potentate.</hi>
+            </p>
+            <p>But what does it avail Me, to make <hi>Laws</hi> and <hi>Canons</hi> for my Children, if they will not pay Obedience? I can see my Sister Churches Religious<g ref="char:EOLhyphen"/>ly Obeyed, and all their Children look upon themselves, as bound un<g ref="char:EOLhyphen"/>der a Mortal sin to Obey their Parent, tho' no <hi>Excommunications</hi> were an<g ref="char:EOLhyphen"/>nexed; but alas! all my Commands are slighted, even from the Obser<g ref="char:EOLhyphen"/>vation of my <hi>Feasts</hi> and <hi>Fasts,</hi> to my Allegiance to my Sovereign: And you who should stand by me, and by your <hi>Consures</hi> as well as your <hi>Examples,</hi> vindicate my Power, and maintain my Honour, take no care to put my <hi>Canons</hi> in Execution; Nay, which is yet more, joyn with the Multitude of my Rebellious Children, and by a Criminal Silence in this Case, e<g ref="char:EOLhyphen"/>qually blast my Reputation.</p>
+            <p>Consider I Pray (my Lords) your Station and your Duty. You are my Principal Children who ought to stand as Bullworks to defend my Faith and Doctrine, and not only by your <hi>Discourses, Sermons,</hi> and <hi>Ex<g ref="char:EOLhyphen"/>amples,</hi> Teach my Inferior Children their Duties, but by <hi>Ecclesiastical Censures</hi> and <hi>Excommunications</hi> compel them to it. But alas! How faintly do you comply with this Obligation?</p>
+            <p>You see a <hi>Foreign Power</hi> is entred into this Nation in an Hostile manner, pretending to give Law; to mine and your Liege Soveraign: You see Per<g ref="char:EOLhyphen"/>sons
+<pb n="6" facs="tcp:103540:4"/>of all Conditions joyn themselves with this Invador, and take up Armes against my King, contrary to their Sworn Allegiance, and in op<g ref="char:EOLhyphen"/>position to my Doctrine of <hi>Non-resistance:</hi> And what <hi>Canon, Constitution,</hi> or <hi>Ecclesiastical Censure</hi> have you published against them? Have you pro<g ref="char:EOLhyphen"/>nounced this Invasion unlawful, and all the Subjects of the King of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who joyn with the Invador, <hi>Traytors both to their King and to their God; and such as resist the Powers that are of God, and shall receive to themselves Damnation?</hi> Have you issued out your Commands to the Inferior Clergy to Read the several <hi>Explanations</hi> of the Regal Power, and Preach up that <hi>Obedience</hi> which is due, and the necessary <hi>Resistance</hi> which every Subject ought to make against the <hi>Invadors of their Country?</hi> Have you <hi>Excommu<g ref="char:EOLhyphen"/>nicated</hi> a <hi>Burnet,</hi> though lyable to an <hi>Ecclesiastical Censure?</hi> Has any of you open'd your Mouthes against the most perfidious Treachery of a C — who calls me still his Mother? In a word, what is it you have done to main<g ref="char:EOLhyphen"/>tain my <hi>Doctrines,</hi> or secure me from the <hi>Reproaches</hi> that are daily cast upon me?</p>
+            <p>Is not all the World ready to say at present, what a Noble Peer said sometime ago to King <hi>Charles</hi> the Second, <hi>The Church of</hi> England <hi>is we see like other Christian Churches, Obedient as long as it consists with her Inte<g ref="char:EOLhyphen"/>rest to Obey, and for a King as long as a King is for her: But setting aside those Cases, she can dispence with Passive Obedience and Non-resistance, as well as any of her Puritan Neighbours:</hi> And have you done any thing to remove the Obliquy?</p>
+            <p>Nay, let me come a little closer to the Point: Have not some of your Order been accused of calling this Invador into your Country? Has not the Prince himself declared as much? Does not this reflect upon my Ho<g ref="char:EOLhyphen"/>nour as well as yours? And have you Vindicated either your selves or Me? What could there have been more easie or more seasonable for the Vindi<g ref="char:EOLhyphen"/>cation of both our Reputations, than to have denyed the Fact, and pub<g ref="char:EOLhyphen"/>lished an <hi>Abhorrence</hi> of such a <hi>Treacherous</hi> and <hi>unparallel'd Invasion?</hi> And yet we see nothing but a profound Silence; which some say, is the cer<g ref="char:EOLhyphen"/>tain sign of Guilt.</p>
+            <p>A Silence, I say, unless you will call your last <hi>Petition</hi> your Defence, whilst others look upon it as a publick acknowledgment of your being Guilty. A <hi>Petition,</hi> which besides the unpracticableness of what is de<g ref="char:EOLhyphen"/>sir'd in it, <hi>A free Parliament,</hi> at a Juncture, when neither the King, Lords, nor Commons can be <hi>Free;</hi> being published at this time, and without His Majesties most gracious Answer, is looked upon by most moderate Men, as an open Abetting of the Prince of <hi>Orange</hi>'s Design by this Invasion, and a siding with Him.</p>
+            <p>Let me a little expostulate the Case with you. Pray tell me, is not the Prince of <hi>Orange</hi> a <hi>Foreign Enemy?</hi> Are not many of those who joyn with Him Subjects of the King of <hi>England?</hi> Has not He and They entred the Kingdom in an Hostile manner? Does He not now seize upon the King's Revenues; has He not strip'd, His Soldiers who would not joyn in the
+<pb n="7" facs="tcp:103540:4"/>most Treacherous Action that ever saw the Light? Has He not erected a formal Treasury? Does He not pretend to Settle the Nation, Red<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Grievances, and force, or Fright the King to a Complyance? Has he not forbid the publick Prayers for our dread Soveraign, and order'd them to be offered for Himself? All this you cannot deny. Pray then tell me fur<g ref="char:EOLhyphen"/>ther. What <hi>Law, Canon,</hi> or <hi>Constitution,</hi> has given Him this Power, Superiority, or Dominion, over our King or Kingdom? What Case of Conscience has Absolved the King's Subjects from their Allegiance? Who is it that has Dispens'd with all the Oaths You or they have taken; or, can they be Dispensed with? What is there can make the most unnatural In<g ref="char:EOLhyphen"/>vasion lawful; and <hi>Rebellion,</hi> which is as the Sin of Witchcrast, become a Vertue? If no man must resist, or take up Armes in <hi>any Case</hi> against the King, what colourable pretence can any one produce to Vindicate these Actions? Is the Doctrine of <hi>Non-Resistance</hi> and <hi>Passive Obedience</hi> mine, or is it not? If you cannot answer <hi>Categorically</hi> to these Questions, but you must necessarily condemn this <hi>Invasion</hi> and <hi>Rebellion,</hi> and all the <hi>Adherents</hi> or <hi>Abettors</hi> of it: Pray tell me, whether a <hi>Silence</hi> in those that are obliged to speak, have their Liberty, and may hope to prevail by speaking, be not in the highest nature <hi>Criminal?</hi>
+            </p>
+            <p>You know what esteem you have gain'd in the Minds of the People by opposing the King, and not publishing His Declaration for Liberty of o<g ref="char:EOLhyphen"/>ther Persons Consciences, which Liberty you thought was inconsistent with your own; so that what you now say to them, will be looked upon almost as Sacred. But if you be not now as stout in opposing a <hi>Foreign Power,</hi> and suppressing <hi>Domestick Broils;</hi> will it not be inferr'd, either that you <hi>approve</hi> of the <hi>Invasion,</hi> or have <hi>lost</hi> your <hi>Courage,</hi> or acted then more by <hi>Passion</hi> then <hi>Reason</hi> or <hi>Religion?</hi> I must needs tell you, that some are not afraid to Whisper; nay, to speak it out, <hi>That you had not been then so Couragious, if you had not foreseen this Invasion; and that the seven Trumpets now appears to have been a fitter Emblem than the seven Candlesticks:</hi> And thus that Glory which you then gain'd begins to Tarnish, and the Garland withers upon your Temple, by your being Silent, and you still Affect it.</p>
+            <p>But you will perhaps still say with the <hi>Mobile,</hi> The Prince comes not to hurt us, but to Protect us and our Religion. You will also, it may be, say that those <hi>Laws, Canons</hi> and <hi>Constitutions</hi> which were made against a <hi>Foreign Power,</hi> were only meant against the <hi>Pope</hi> and <hi>Popery,</hi> but not a<g ref="char:EOLhyphen"/>gainst a <hi>Protestant Prince,</hi> who comes only to secure us against the Designs of <hi>Papists.</hi>
+            </p>
+            <p>But if you say this, speak softly; least you entirely ruin my Reputati<g ref="char:EOLhyphen"/>on, and instead of repelling the Calumny, clench it by such Distincti<g ref="char:EOLhyphen"/>ons. Is not King <hi>JAMES</hi> the II. my Lawful Soveraign, against whom this <hi>Foreign Invador</hi> comes? Are not you and all his Liege Subjects bound by all the Tyes of <hi>God,</hi> of <hi>Nature,</hi> and of <hi>Nations,</hi> to Desend Him a<g ref="char:EOLhyphen"/>gainst <hi>any Power whatever, Papal</hi> or <hi>Popular, Foreign</hi> or <hi>Domestick?</hi> Sup<g ref="char:EOLhyphen"/>pose
+<pb facs="tcp:103540:5"/>he had gone about to persecute my Children, or pull me down (though I must needs say, the promises He made me, and the methods He was taking to secure my <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, would have been the most solid Establishment for me, even to Envy in future ages) is not <hi>Passive Obedience</hi> and <hi>Non-Resistance</hi> my known Doctrine? What pretence then can you or any of my Children have to joyn with such a <hi>Foreign Power, abet Re<g ref="char:EOLhyphen"/>bellion,</hi> or stand with folded arms, without pronouncing Sentence against such <hi>Rebels.</hi>
+            </p>
+            <p>Have you such a Charm as can turn what would be Treason, Treachery and Rebellion in a Papist, into Protestant Virtues? I dare say, if the Bishop of <hi>Rome,</hi> or any <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Catholick <hi>King, Prince,</hi> or <hi>Potentate,</hi> had in the beginning of the <hi>Protestant</hi> Re<g ref="char:EOLhyphen"/>formation, entered into this Kingdom in such an Hostile manner, for the Defence of the antient Liberties and Religion of the Nation, as then by Law E<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ablished, you would have proclaimed them <hi>Ʋnjust Invaders,</hi> and all the Subjects of these Kingdoms, that would not joyn in the repelling of them, <hi>Traytors.</hi> And is the case now changed, be<g ref="char:EOLhyphen"/>cause the Prince of <hi>Orange</hi> is a <hi>Protestant,</hi> and our Gracious King a <hi>Rom<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Catholick?</hi> Is that a Virtue in a <hi>Protestant</hi> Prince, which would be the highest crime in a <hi>Roman Ca<g ref="char:EOLhyphen"/>tholick</hi> King? Was the intended <hi>Invasion</hi> in 1588 look'd upon by me as a most Wicked Undertaking, and justly punished by an avenging Fire, and shall not that of 1688 be as much condemned; because this is a <hi>Protestant Invasion,</hi> and that a <hi>Roman Catholick?</hi> Have you so frequently condemned the <hi>Roman Catholick</hi> Religion, and instilled an aver<g ref="char:EOLhyphen"/>sion into the peoples minds, by laying bloody Principles to their charge; and will you now assert, that it is Lawful for <hi>Protestants</hi> to defend their <hi>Religion</hi> against their Sove<g ref="char:EOLhyphen"/>reign by <hi>Invasions, Rebellions, Tumults, Rapines, Seditions, Massacrees, Blood-shed,</hi> and all the dire Effect of <hi>War?</hi>
+            </p>
+            <p>
+               <hi>Tell not these things in</hi> Gath, <hi>publish them not in the streets of</hi> Askelon, <hi>lest the Daughters of the Philistines rejoyce, lest the Daughters of the Ʋncircumcised triumph.</hi> Tell them not (I say) lest not only our Brethren of other Nations, but even <hi>Heathens</hi> themselves should skoff at our Morality.</p>
+            <p>I have heard of several <hi>Roman Catholicks,</hi> who being Interrogated by publick Autho<g ref="char:EOLhyphen"/>rity, whether if the Bishop of <hi>Rome</hi> should come into <hi>England,</hi> they would stand for the <hi>Pope</hi> or for the <hi>King,</hi> made answer, <hi>If the</hi> Pope <hi>come in with his Books and Beades, we will be for him; But if he come in with Sword and Pistol, we will Fight against him.</hi> And shall they whose Principles we censure, exceed us in the degrees of Loyalty? What Shame, what Confusion will this be to us in after Ages; when God, who will Vindicate the Right of Kings, shall again establish our Soveraigns Throne in Peace? This will be a <hi>Blot</hi> to be hit by every <hi>Polemic</hi> Writer; my Reputation thus lost, will never be regain'd, and I shall be alwayes put in mind of the Wise man's advice, <hi>Fear God, Honour the King, and medle not with those that are given to change.</hi>
+            </p>
+            <p>Let me beg of you then (my beloved Children) to consider your <hi>Mothers Honour</hi> and <hi>Reputation,</hi> if you will not reflect upon your own. Let not my <hi>Doctrines</hi> and <hi>Principles</hi> he laid aside, and those that are contrary to them embraced by you. Let it not be objected that I have <hi>changed</hi> my <hi>Faith,</hi> and instead of even <hi>Passive Obedience</hi> and <hi>Non-Resistance,</hi> now go about to preserve my Rights and Priviledges by an <hi>Invaders</hi> Sword and <hi>Rebels Armes.</hi> But on the contrary labour to regain your own <hi>Reputations,</hi> and repair my blasted <hi>Honour</hi> by an unshaken stedfastness to your Soveraign.</p>
+            <p>Publish boldly the <hi>Abhorrence</hi> of this <hi>Treacherous Invasion,</hi> which is the only way to clear your Innocence, and confute the <hi>Invadors</hi> Accusation. Move your Brethren to send forth your joynt <hi>Injunctions</hi> to all the Inferiour Clergy, commanding them to Preach <hi>Obe<g ref="char:EOLhyphen"/>dience</hi> and <hi>Non-Resistance</hi> to the People, and by that means quell the fury of the Rabble. Declare all those to be <hi>Excommunicated</hi> persons, whom the King declares to be <hi>Traytors.</hi> Pronounce <hi>Rebellion</hi> to be <hi>as the sin of Witchcraft,</hi> and that they who <hi>curse the King in their Thoughts, shall have</hi> a <hi>Bird of the Air carry the Voice,</hi> and an avenging <hi>God</hi> to punish the Offence. Stand up now, before it be too late for my Doctrine of <hi>Non-Resistance,</hi> and then you need not fear the being exercised in that of <hi>Passive Obedience.</hi> For when our Gracious Sovereign shall by that means, see your Loyalty in <hi>practice</hi> as well as <hi>Doctrine,</hi> He will be as constant to His <hi>Promises,</hi> as you can be to your <hi>Principles;</hi> And if I main<g ref="char:EOLhyphen"/>tain the Right of Kings, He will maintain me as by Law Established.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
